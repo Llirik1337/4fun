@@ -1,0 +1,10 @@
+{
+  "name": "@4fun/biba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "ll1r1k1337",
+  "license": "ISC"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "4fun",
+  "version": "1.0.0",
+  "description": "It's repo created for fun",
+  "keywords": [],
+  "author": "ll1r1k1337",
+  "scripts": {
+    "test": "npm run test --if-present --workspaces",
+    "test:target": "npm run test -w"
+  },
+  "license": "ISC",
+  "workspaces": [
+    "packages/biba"
+  ],
+  "devDependencies": {
+    "@types/node": "^18.11.3",
+    "eslint": "^8.25.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "2.7.1"
+  }
+}
