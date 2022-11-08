@@ -10,13 +10,14 @@
   },
   "license": "ISC",
   "workspaces": [
-    "packages/biba"
+    "packages/biba",
+    "packages/boba"
   ],
   "devDependencies": {
     "@types/node": "^18.11.3",
     "eslint": "^8.25.0",
     "eslint-config-google": "^0.14.0",
     "eslint-config-prettier": "^8.5.0",
-    "prettier": "2.7.1"
+    "prettier": "^2.7.1"
   }
 }
