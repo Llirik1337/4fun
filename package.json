@@ -11,7 +11,8 @@
   "license": "ISC",
   "workspaces": [
     "packages/biba",
-    "packages/boba"
+    "packages/boba",
+    "packages/2dolbaeba"
   ],
   "devDependencies": {
     "@types/node": "^18.11.3",

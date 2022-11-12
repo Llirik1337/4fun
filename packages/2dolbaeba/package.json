@@ -1,0 +1,17 @@
+{
+  "name": "2dolbaeba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ll1r1k1337:Llirik1337/4fun.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

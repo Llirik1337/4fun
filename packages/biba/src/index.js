@@ -2,8 +2,8 @@ import EventEmitter from "events";
 import http from "http";
 import path from "path";
 import { createContext, runInContext } from "vm";
-import * as utils from "./utils/index.js";
-export * as utils from "./utils/index.js";
+import * as utils from "../../boba/src/utils/index.js";
+export * as utils from "../../boba/src/utils/index.js";
 
 /**
  * @typedef {(...args: any[]) => void} ListenerType
