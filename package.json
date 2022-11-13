@@ -12,7 +12,9 @@
   "workspaces": [
     "packages/biba",
     "packages/boba",
-    "packages/2dolbaeba"
+    "packages/2dolbaeba",
+    "packages/biba2",
+    "packages/boba2"
   ],
   "devDependencies": {
     "@types/node": "^18.11.3",
