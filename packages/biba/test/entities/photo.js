@@ -1,0 +1,4 @@
+({
+  id: "string",
+  link: "string",
+});
